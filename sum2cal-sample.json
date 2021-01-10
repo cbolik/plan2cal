@@ -1,0 +1,11 @@
+{
+  "Breakfast": "Meals",
+  "Commute": "Work",
+  "Work": "Work",
+  "Lunch": "Meals",
+  "Laundry": "Housekeeping",
+  "Cleaning": "Housekeeping",
+  "Gym": "Workout",
+  "Running": "Workout",
+  "Reading": "Fun"
+}
