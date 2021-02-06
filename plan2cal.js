@@ -22,7 +22,7 @@ console.log(lines.length + " lines");
 console.log("Reading " + mapPath);
 const mapStr = fs.readFileSync(mapPath, "utf8");
 calMap = JSON.parse(mapStr);
-console.log(calMap);
+//console.log(calMap);
 
 let isSlotLine = false;
 let Monday = [];
